@@ -1,4 +1,4 @@
-### Hi there 👋
+[![arinzejustin](https://github.com/arinzejustin/arinzejustin/blob/main/gitartwork.svg)](https://github.com/jasineri/gitartwork/)
 
 <!--
 **arinzejustin/arinzejustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
