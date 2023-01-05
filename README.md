@@ -2,11 +2,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arinzejustin&theme=dark&fire=DD2727&border=DD2727)](https://git.io/streak-stats)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arinzejustin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arinzejustin&repo=github-readme-stats" />
+<a href="https://github.com/arinzejustin/github-readme-stats" style="display: inline-block">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arinzejustin&repo=arinzejustin" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arinzejustin&repo=convoychat" />
+<a href="https://github.com/arinzejustin/convoychat" style="display: inline-block">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arinzejustin&repo=cicsite" />
 </a>
 <!-----
 - 🔭 I’m currently working on ...
