@@ -3,7 +3,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arinzejustin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=7)
 <br/>
 <p align="center"> 
-  Visitor count<br/>
   <img src="https://profile-counter.glitch.me/arinzejustin/count.svg" />
 </p>
 <!-----
