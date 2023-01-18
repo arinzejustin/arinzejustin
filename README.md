@@ -4,7 +4,7 @@
 <br/>
 <p align="center"> 
   <img align="left" src="https://profile-counter.glitch.me/arinzejustin/count.svg" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=davidinmichael&show_icons=true&locale=en" alt="davidinmichael" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=arinzejustin&show_icons=true&locale=en" alt="Arinze Justin" />
 </p>
 <!-----
 - 🔭 I’m currently working on ...
