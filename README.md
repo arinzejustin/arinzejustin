@@ -3,7 +3,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arinzejustin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=7)
 <br/>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/arinzejustin/count.svg" />
+  <img align="left" src="https://profile-counter.glitch.me/arinzejustin/count.svg" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=davidinmichael&show_icons=true&locale=en" alt="davidinmichael" />
 </p>
 <!-----
 - 🔭 I’m currently working on ...
