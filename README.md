@@ -19,7 +19,7 @@
 
 <a href="https://github.com/arinzejustin/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=arinzejustin&hide_border=false&show_icons=true&include_all_commits=true&hide_title=false&count_private=true&theme=dark" />
 <p align="center"> 
-<!--   <img align="left" src="https://profile-counter.glitch.me/arinzejustin/count.svg" /> -->
+<!--   <img align="left" src="https://profile-counter.glitch.me/arinzejustin/count.svg" bb /> -->
 </p>
 <!-----
 - 🔭 I’m currently working on ...
